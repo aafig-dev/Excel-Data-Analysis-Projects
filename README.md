@@ -1,10 +1,10 @@
 # Excel Data Analysis Projects
 
 ## 📊 FMCG Sales Performance Dashboard
-![FMCG Sales Performance Dashboard](FMCG Sales Performance Dashboard.png)
+[![FMCG Sales Performance Dashboard](FMCG Sales Performance Dashboard.png)](FMCG Sales Performance Dashboard.png)
 
 ## 📅 Weekday vs Weekend Performance Heatmap
-![Weekday vs Weekend Performance Heatmap](FMCG Weekday vs Weekend Performance Heatmap.png)
+[![Weekday vs Weekend Performance Heatmap](FMCG Weekday vs Weekend Performance Heatmap.png)](FMCG Weekday vs Weekend Performance Heatmap.png)
 
 
 Contact
